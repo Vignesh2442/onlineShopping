@@ -1,2 +1,2 @@
 # onlineShopping
-Ecommerrce site with the working payment gateways.
+Ecommerrce site with the working payment gateways..
